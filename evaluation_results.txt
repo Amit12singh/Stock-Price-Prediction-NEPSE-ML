@@ -1,0 +1,3 @@
+Root Mean Squared Error (RMSE): 2978.194585836593
+Mean Absolute Error (MAE): 807.1737716633032
+Mean Absolute Percentage Error (MAPE): 1187.2621397402656%
